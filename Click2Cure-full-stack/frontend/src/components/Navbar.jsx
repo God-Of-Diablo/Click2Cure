@@ -57,7 +57,7 @@ const Navbar = () => {
           </div>
         </NavLink>
         {/* ---------- Panel Button ---------- */}
-        <button className="relative p-2 transition-all duration-500 rounded-full group hover:cursor-pointer hover:bg-blue-700">
+        <a href="https://click2cure-panel.onrender.com" className="relative p-2 transition-all duration-500 rounded-full group hover:cursor-pointer hover:bg-blue-700">
           <svg fill="#ffffff" height="23px" width="23px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 298.5 298.5" xml:space="preserve">
             <g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier">
               <g>
@@ -67,10 +67,10 @@ const Navbar = () => {
               </g>
             </g>
           </svg>
-          <a href="https://click2cure-panel.onrender.com" className="absolute px-2 py-1 mt-4 text-white transition-all duration-500 transform scale-50 -translate-x-1/2 rounded-md opacity-0 bg-primary top-full left-1/2 w-max group-hover:opacity-100 group-hover:scale-100">
+          <div className="absolute px-2 py-1 mt-4 text-white transition-all duration-500 transform scale-50 -translate-x-1/2 rounded-md opacity-0 bg-primary top-full left-1/2 w-max group-hover:opacity-100 group-hover:scale-100">
             Panel
-          </a>
-        </button>
+          </div>
+        </a>
       </nav>
 
       <div className='flex items-center gap-4 '>
