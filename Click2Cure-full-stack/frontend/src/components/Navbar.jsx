@@ -106,6 +106,7 @@ const Navbar = () => {
               { name: 'ALL DOCTORS', path: '/doctors' },
               { name: 'ABOUT', path: '/about' },
               { name: 'CONTACT', path: '/contact' },
+              { name: 'PANEL', path: 'https://click2cure-panel.onrender.com' },
             ].map((item, index) => (
               <NavLink key={index} onClick={() => setShowMenu(false)} to={item.path} className={({ isActive }) => `w-[80%] text-center bg-blue-200 hover:bg-blue-400 text-black font-semibold py-3 rounded-full shadow-md hover:text-white transition-transform duration-300 ease-out hover:scale-105 active:scale-95 ${isActive ? 'bg-blue-400 text-white scale-105' : ''}`}>
                 {item.name}
