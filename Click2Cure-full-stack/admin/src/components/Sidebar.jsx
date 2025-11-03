@@ -10,7 +10,7 @@ const Sidebar = () => {
   const { aToken } = useContext(AdminContext)
 
   return (
-    <div className="fixed left-0 h-screen mt-10 overflow-y-auto bg-white border-r top-16">
+    <div className="fixed left-0 h-screen mt-[100px] overflow-y-auto bg-white border-r top-16">
       {aToken && (
         <ul className="text-[#515151] flex flex-col gap-2 px-3 md:px-5">
           <NavLink
