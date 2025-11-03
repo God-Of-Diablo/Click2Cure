@@ -67,7 +67,7 @@ const Navbar = () => {
               </g>
             </g>
           </svg>
-          <a href="" className="absolute px-2 py-1 mt-4 text-white transition-all duration-500 transform scale-50 -translate-x-1/2 rounded-md opacity-0 bg-primary top-full left-1/2 w-max group-hover:opacity-100 group-hover:scale-100">
+          <a href="https://click2cure-panel.onrender.com" className="absolute px-2 py-1 mt-4 text-white transition-all duration-500 transform scale-50 -translate-x-1/2 rounded-md opacity-0 bg-primary top-full left-1/2 w-max group-hover:opacity-100 group-hover:scale-100">
             Panel
           </a>
         </button>
