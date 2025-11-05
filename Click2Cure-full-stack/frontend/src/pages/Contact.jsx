@@ -26,9 +26,9 @@ const Contact = () => {
               54709 Willms Station <br /> Suite 350, Washington, USA
             </p>
             <p className='text-gray-500'>
-              Tel: (415) 555-0132 <br /> Email: greatstackdev@gmail.com
+              Tel: (415) 555-0132 <br /> Email: mamatadhibar@gmail.com
             </p>
-            <p className='text-lg font-semibold text-gray-600'>CAREERS AT PRESCRIPTO</p>
+            <p className='text-lg font-semibold text-gray-600'>CAREERS AT CLICK2CURE</p>
             <p className='text-gray-500'>Learn more about our teams and job openings.</p>
             <button className='px-8 py-4 text-sm transition-all duration-500 border border-black rounded-full hover:bg-black hover:text-white'>
               Explore Jobs
