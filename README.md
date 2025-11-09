@@ -97,7 +97,6 @@ Click2Cure/
 │   │   ├── assets/        # Static assets and icons
 │   │   └── App.js
 │   └── package.json
-|
 └── README.md
 ```
 
