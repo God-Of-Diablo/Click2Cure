@@ -93,7 +93,7 @@ Click2Cure/
 │   ├── src/
 │   │   ├── components/    # Reusable UI components
 │   │   ├── pages/         # Application pages
-│   │   ├── context/         # Application context
+│   │   ├── context/       # Application context
 │   │   ├── assets/        # Static assets and icons
 │   │   └── App.js
 │   └── package.json
