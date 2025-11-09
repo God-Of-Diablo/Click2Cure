@@ -89,7 +89,7 @@ Click2Cure/
 │   ├── server.js          # App entry point
 │   └── package.json
 │
-├── frontend/                 # React frontend
+├── frontend/              # React frontend
 │   ├── src/
 │   │   ├── components/    # Reusable UI components
 │   │   ├── pages/         # Application pages
